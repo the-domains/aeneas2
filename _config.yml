@@ -1,0 +1,28 @@
+name: aeneas2
+favicon: null
+layout_spectrum: 0.466160009149462
+typography_spectrum: 0.05533398687839508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6987580142449588
+  lightness: 0.4006873082835227
+  saturation: 0.4624149699229747
+  rhythmicContrast: 0.2245017527602613
+purpose: []
